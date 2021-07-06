@@ -4,6 +4,7 @@ class Master {
 
 	public void setA(int a){
 		this.a = a;
+		System.out.println("Changes made by B");
 	}
 
 }
